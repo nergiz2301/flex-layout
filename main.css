@@ -96,11 +96,7 @@ textarea {
    ========================================================================== */
 
 html {
-<<<<<<< HEAD
   background-color: #3d3d3d;
-=======
-  background-color: #fff;
->>>>>>> ce421a22bb648135022ea0f364713d1e796016d6
   height: 100%;
   width: 100%;
 }
@@ -115,7 +111,6 @@ body {
 
 header,
 footer {
-<<<<<<< HEAD
   background-color: #3d3d3d;
   height: 80px;
   width: 100%;
@@ -129,38 +124,22 @@ main {
   height: 250px;
   width: 100%;
   font-family: 'Courier New', Courier, monospace;
-  font-size:1.12em;
+  font-size:1.25em;
   color:#222;
 }
 main span{
     color:#fff;
-    font-size: 1.2em;
-=======
-  background-color: #222;
-  height: 80px;
-  width: 100%;
-}
-
-main {
-  background-color: #ccc;
-  height: 250px;
-  width: 100%;
->>>>>>> ce421a22bb648135022ea0f364713d1e796016d6
+    font-size: 1.3em;
 }
 
 header,
 footer,
 main {
     display:flex;
-<<<<<<< HEAD
     justify-content: flex-start;
     align-items:center;
     padding-left:60px;
     
-=======
-    justify-content: center;
-    align-items:center;
->>>>>>> ce421a22bb648135022ea0f364713d1e796016d6
 
 }
 
@@ -178,28 +157,12 @@ main {
   align-items:center;
   color: #fff;
   line-height: 1.5em;
-<<<<<<< HEAD
-  font-size: 1.2em;
+  font-size: 1.6em;
   background-color: #3d3d3d;
   width: 30%;
   height: 350px;
 }
 
-#div-2{
-    border-right:1px solid #fff;
-    border-left: 1px solid #fff;
-    padding:0 10px;
-}
-
-
-=======
-  font-size: 1.6em;
-  background-color: #f16059;
-  width: 30%;
-  height: 200px;
-}
-
->>>>>>> ce421a22bb648135022ea0f364713d1e796016d6
 /* ==========================================================================
    Helper classes
    ========================================================================== */
